@@ -1,20 +1,23 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)]
 
 <h1 align="center">Hi 👋, I'm Saurabh Giri</h1>
 <h3 align="center">Navigating the Full Stack: Strategies for Success in Modern Web Development</h3>
+<img align="center"  height ="100" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh9136&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh9136" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh9136" alt="saurabh9136" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Anugular**
+- 🔭currently pursuing **BCA** from **Chabdrabhan Sharma College.**
 
-- 💬 Ask me about **Full stack development, Database**
+- 🤝Focusing on: **gaining new skills on Web development and Database.**
 
-- 📫 How to reach me **saurabhgiri2411@gmail.com**
+- 🌱 Frontend Tech Stack: **Angular**
+
+- 🌱 Backend Tech Stack: **Java Spring Boot Hibernate-JPA**
+
+- 🌱 Databases: **Oracle, MySql**
+
+- 📫 Mail me here **saurabhgiri2411@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh9136&show_icons=true&locale=en" alt="saurabh9136" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh9136&" alt="saurabh9136" /></p>
+	
