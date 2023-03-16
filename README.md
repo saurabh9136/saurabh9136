@@ -1,6 +1,6 @@
 [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif)]
 
-<h1 align="center">Hi 👋, I'm Saurabh Grir</h1>
+<h1 align="center">Hi 👋, I'm Saurabh Giri</h1>
 <h3 align="center">Navigating the Full Stack: Strategies for Success in Modern Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
