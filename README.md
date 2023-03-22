@@ -74,8 +74,14 @@
         </a>
 	
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh9136&show_icons=true&locale=en&layout=compact" alt="saurabh9136" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh9136&show_icons=true&locale=en" alt="saurabh9136" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh9136&" alt="saurabh9136" /></p>
+</div>
+<br>
+<p>&nbsp;
+ <table border="0" align="center">
+        <tr border="0">
+            <td width="50%" align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh9136&show_icons=true&locale=en" alt="saurabh9136" />
+	<br>
+	</br>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh9136&" alt="saurabh9136" /></p>
 	
