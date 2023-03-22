@@ -43,12 +43,10 @@
 		</a>
 		<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 			
-<h3 align="center">Frontend Frameworks:</h3>	
+<h3 align="center"> 🧰 Frameworks:</h3>	
 	<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>
-<h3 align="center">Backend Frameworks:</h3>	
-	 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>  
-	 </a>
+		<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 
 <h3 align="center">Databases:</h3>
 
@@ -73,13 +71,14 @@
             <img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> 
         </a>
 	
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh9136&show_icons=true&locale=en&layout=compact" alt="saurabh9136" /></p>
+
 </div>
 <br>
 <p>&nbsp;
  <table border="0" align="center">
         <tr border="0">
             <td width="50%" align="center">
+		    <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh9136&show_icons=true&locale=en&layout=compact" alt="saurabh9136" /></p>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh9136&show_icons=true&locale=en" alt="saurabh9136" />
 	<br>
 	</br>
