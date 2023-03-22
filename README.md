@@ -1,6 +1,6 @@
 ![logo](https://github.com/saurabh9136/saurabh9136/blob/main/abc.png)
 <h1 align="center">Hi 👋, I'm Saurabh Giri</h1>
-<h3 align="center" Technology Enthusiast </h3>
+<h3 align="center">Navigating the Full Stack: Strategies for Success in Modern Web Development</h3>
 <img align="center"  height ="100" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh9136&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh9136" /> </p>
@@ -9,13 +9,13 @@
 
 - 🔭currently pursuing **BCA** from **Chabdrabhan Sharma College.**
 
-- 🤝Focusing on: **gaining new skills on Web development and Database.**
+- 🤝Focusing on          : **gaining new skills on Web development and Database.**
 
-- 🌱 Frontend Tech Stack: **Angular**
+- 🌱 Frontend Tech Stack : **Angular**
 
-- 🌱 Backend Tech Stack: **Java Spring Boot Hibernate-JPA**
+- 🌱 Backend Tech Stack  : **Java Spring Boot Hibernate-JPA**
 
-- 🌱 Databases: **Oracle, MySql**
+- 🌱 Databases           : **Oracle, MySql**
 
 - 📫 Mail me here **saurabhgiri2411@gmail.com**
 
