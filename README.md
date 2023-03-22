@@ -9,13 +9,13 @@
 
 - 🔭currently pursuing **BCA** from **Chabdrabhan Sharma College.**
 
-- 🤝Focusing on          : **gaining new skills on Web development and Database.**
+- 🤝Focusing on: **gaining new skills on Web development and Database.**
 
-- 🌱 Frontend Tech Stack : **Angular**
+- 🌱 Frontend Tech Stack: **Angular**
 
-- 🌱 Backend Tech Stack  : **Java Spring Boot Hibernate-JPA**
+- 🌱 Backend Tech Stack: **Java Spring Boot Hibernate-JPA**
 
-- 🌱 Databases           : **Oracle, MySql**
+- 🌱 Databases: **Oracle, MySql**
 
 - 📫 Mail me here **saurabhgiri2411@gmail.com**
 
