@@ -70,25 +70,25 @@
         </a> <a href="https://eclipse.org" target="_blank" rel="noreferrer">
             <img src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="eclipse" width="40" height="40"/> 
         </a>
-	
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-<br>
-<p>&nbsp;
- <table border="0" align="center">
+<br>	
+<p  align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+  <br>
+    <table border="0" align="center">
         <tr border="0">
             <td width="50%" align="center">
-		    
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh9136&theme=nightowl&show_icons=true&locale=encount_private=true" alt="saurabh9136" />
-	<br>
-	</br>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh9136&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="saurabh9136" /></p>
-		</td>
-		<td width="50%" align="center">
-		
-	<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saurabh9136&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=saurabh9136&theme=nightowl&show_icons=true&count_private=true" />
+                <br>
+                </br>
+                <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=saurabh9136&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+            </td>
+            <td width="50%" align="center">
+                <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saurabh9136&theme=nightowl&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
             </td>
         </tr>
     </table>
     <br>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+<br>
