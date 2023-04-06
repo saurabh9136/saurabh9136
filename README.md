@@ -13,7 +13,7 @@
 
 - 🌱 Frontend Tech Stack : **Angular**
 
-- 🌱 Backend Tech Stack  : **Java Spring Boot Hibernate-JPA**
+- 🌱 Backend Tech Stack  : **Java Spring Boot, Hibernate-JPA**
 
 - 🌱 Databases           : **Oracle, MySql**
 
