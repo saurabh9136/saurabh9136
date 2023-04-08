@@ -9,7 +9,7 @@
 
 - 🔭currently pursuing **BCA** from **Chandrabhan Sharma College**
 
-- 🤝Focusing on          : **gaining new skills on Web development and Database.**
+- 🤝Focusing on          : **gaining new skills on Web development and Database**
 
 - 🌱 Frontend Tech Stack : **Angular**
 
