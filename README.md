@@ -11,11 +11,11 @@
 
 - 🤝Focusing on          : **gaining new skills on Web development and Database.**
 
-- 🌱 Frontend Tech Stack : **Angular**
+- 🌱 Frontend Tech Stack : **Angular, JSP**
 
 - 🌱 Backend Tech Stack  : **Java Spring Boot, Hibernate-JPA**
 
-- 🌱 Databases           : **Oracle, MySql**
+- 🌱 Databases           : **Oracle, MySql, PostgreSQL**
 
 - 📫 Mail me here **saurabhgiri2411@gmail.com**
 
