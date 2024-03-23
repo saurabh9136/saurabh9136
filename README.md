@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/saurabh9136/saurabh9136/blob/main/banner-images.webp" alt="logo" height="100px"width="900px">
+  <img src="https://github.com/saurabh9136/saurabh9136/blob/main/banner-images.webp" alt="logo" height="350px"width="900px">
 </p>
 <h1 align="center">Hi 👋, I'm Saurabh Giri</h1>
 <h3 align="center">Navigating the Full Stack: Strategies for Success in Modern Web Development</h3>
