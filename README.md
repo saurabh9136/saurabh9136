@@ -9,15 +9,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭currently pursuing **BCA** from **Chandrabhan Sharma College**
+- 💼 **Currently working as a **Software Engineer** at iQuippo Services Limited from **Sep 2023****
+- 🎓 **Graduated with a **Bachelor's of Computer Application degree** from **Chandrabhan Sharma College** in 2023 with a **CGPA of 7.83.****
 
 - 🤝Focusing on          : **gaining new skills on Web development and Database.**
 
-- 🌱 Frontend Tech Stack : **Angular, JSP**
+- 🌱 Frontend Tech Stack : **Angular, JSP, HTML, CSS, Bootstrap**
 
-- 🌱 Backend Tech Stack  : **Java Spring Boot, Hibernate-JPA**
+- 🌱 Backend Tech Stack  : **Django, Django REST Framework, Java Spring Boot, Hibernate JPA**
 
-- 🌱 Databases           : **Oracle, MySql, PostgreSQL**
+- 🌱 Databases           : **Oracle, MySQL, PostgreSQL, MongoDB, SQLite**
 
 - 📫 Mail me here **saurabhgiri2411@gmail.com**
 
