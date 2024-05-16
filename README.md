@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💼 **Currently working as a **Software Engineer** at iQuippo Services Limited from **Sep 2023****
-- 🎓 **Graduated with a **Bachelor's of Computer Application degree** from **Chandrabhan Sharma College** in 2023 with a **CGPA of 7.83.****
+- 🎓 **Graduated with a **BCA degree** from **Chandrabhan Sharma College** in 2023 with a **CGPA of 7.83.****
 
 - 🤝Focusing on          : **gaining new skills on Web development and Database.**
 
@@ -51,7 +51,7 @@
 			
 <h3 align="center"> 🧰Full Stack Frameworks:</h3>	
 	<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-		<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="[https://angular.io/assets/images/logos/angular/angular.svg](https://www.djangoproject.com/s/img/logos/django-logo-negative.png)" alt="django" width="40" height="40"/> 
+		
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>
 		<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 
